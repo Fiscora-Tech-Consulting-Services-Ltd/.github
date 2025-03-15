@@ -1,6 +1,6 @@
 🚀 Welcome to Fiscora Tech Consulting Services!
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), we are Fiscora Tech Consulting Services—a startup dedicated to empowering businesses with cutting-edge technology solutions. Our expertise lies in software development, cloud solutions, web applications, and IT consulting to drive innovation and business growth.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), welcome to Fiscora Tech Consulting Services. Fiscora is an oganization dedicated to empowering businesses with cutting-edge technology solutions. Our expertise lies in software development, cloud solutions, web applications, and IT consulting to drive innovation and business growth.
 ===========================================================================================================================================
 
 At Fiscora, we believe in delivering high-performance, scalable, and secure solutions tailored to our clients' needs. Whether it's custom web development, API integrations, cloud migration, or mobile applications, we are here to help you turn ideas into reality.
